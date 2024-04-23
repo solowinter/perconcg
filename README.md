@@ -12,7 +12,7 @@ This repository contains the code files used for the analyses in "Performance An
 ---------
 | Name         | Email              | Role |
 |:------------ |:------------------ |:---- |
-| Zhihao Zhou  | zhouzhih@usc.edu   | Lead Researcher, Department of Spatial Statistics, University of Southern California |
+| Zhihao Zhou  | zhouzhih@usc.edu   | University of Southern California |
 
 ## Licensing
 ---------
