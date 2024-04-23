@@ -1,0 +1,26 @@
+{
+    "id": "4C7574F7",
+    "path": "~/Desktop/ConjugateNNGP-master/simulation/src/functions.R",
+    "project_path": "simulation/src/functions.R",
+    "type": "r_source",
+    "hash": "4154564443",
+    "contents": "",
+    "dirty": false,
+    "created": 1696549503526.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "209,3",
+        "scrollLine": "192"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701452593,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701452593942,
+    "read_only": false,
+    "read_only_alternatives": []
+}
